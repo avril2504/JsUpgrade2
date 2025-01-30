@@ -1,4 +1,4 @@
-// Importar el módulo readFileSync
+ // Importar el módulo readFileSync
 import { readFileSync } from 'fs'
 
 // Leer el archivo JSON
